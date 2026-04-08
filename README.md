@@ -1,89 +1,124 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d7b,100:1a8a7a&height=130&section=header" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Aarpit+Jethwa+%F0%9F%91%8B;B.Tech+CSE+%40+RBU+Nagpur;Building+AI+%2B+Fullstack+Products;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Aarpit+Jethwa+%F0%9F%91%8B;B.Tech+CSE+%40+RBU+Nagpur;AI+%2B+Fullstack+Developer;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/aarpitjethwa091006">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Undergrad at **Ramdeobaba University, Nagpur** (2026)
-- 🔭 Currently building: **AI-powered fullstack projects**
-- 🌱 Learning: **React · Node.js · Python · LangChain · OpenAI API**
-- 🤝 Member at **GDG RBU** — Google Developer Group
-- 💬 Ask me about: Fullstack development, AI integrations, CLI tools
-- 📫 Reach me at: [linkedin.com/in/aarpitjethwa091006](https://www.linkedin.com/in/aarpitjethwa091006)
-- ⚡ Goal: Land a software engineering internship where I can build real products
+Hey, I'm **Aarpit** — a CSE undergrad from Nagpur who genuinely enjoys building things from scratch and figuring out why they broke.
+
+- 🎓 B.Tech Computer Science @ **Ramdeobaba University** (Class of 2026)
+- 🧠 Member @ **GDG RBU** — Google Developer Group on campus
+- 🤖 Into **AI + Fullstack** — currently exploring LLMs, RAG, and building things with OpenAI
+- 💬 I like clean code, messy terminals, and coffee at the wrong hours
+- 📍 Nagpur, Maharashtra
+- 📫 Reach me → [linkedin.com/in/aarpitjethwa091006](https://www.linkedin.com/in/aarpitjethwa091006)
+
+> *"First, solve the problem. Then, write the code."*
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
+
+**Languages**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,python,html,css&theme=dark&perline=5" />
+</div>
+
+<br/>
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark&perline=5" />
+</div>
+
+<br/>
 
 **Backend & Database**
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark&perline=5" />
+</div>
 
-**AI & Tools**
+<br/>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📊 GitHub Stats
+**AI / ML**
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aarpit9106&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarpit9106&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=for-the-badge&logoColor=white)
+![LLM Apps](https://img.shields.io/badge/LLM--based_Apps-0EA5E9?style=for-the-badge&logoColor=white)
+
+</div>
+
+<br/>
+
+**Tools & Platforms**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm&theme=dark&perline=5" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aarpit9106&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
+&nbsp;&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarpit9106&layout=compact&langs_count=6&theme=github_dark&hide_border=true&border_radius=10"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Aarpit9106&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aarpit9106&theme=github-dark-blue&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-### 🚀 What I'm Building
+## 📈 Commit Activity
 
-| Project | Description | Stack | Status |
-|--------|-------------|-------|--------|
-| 📝 Notes CLI Tool | Terminal-based second brain with tagging & analytics | Python | ✅ Live |
-| 💰 Finance Tracker | Track income/expenses with charts & auth | React · Node · MongoDB | 🔨 Building |
-| 🤖 AI Resume Builder | AI generates bullet points from your experience | React · OpenAI API | 📅 Planned |
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aarpit9106&theme=github-compact&hide_border=true&area=true&area_color=58A6FF&line=58A6FF&point=FFFFFF&bg_color=0d1117" />
+</div>
 
 ---
 
-### 🤝 Connect with Me
+## 🐍 Snake Eating My Commits
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Aarpit9106/Aarpit9106/output/github-contribution-grid-snake-dark.svg" alt="Snake eating commits" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarpitjethwa091006)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aarpit9106)
+---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aarpit9106&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aarpit9106&label=Profile+Views&color=7C3AED&style=flat" alt="profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a8a7a,50:0e4d7b,100:0d1117&height=110&section=footer" />
 </div>
