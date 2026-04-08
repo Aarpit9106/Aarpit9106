@@ -122,3 +122,5 @@ Hey, I'm **Aarpit** — a CSE undergrad from Nagpur who genuinely enjoys buildin
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a8a7a,50:0e4d7b,100:0d1117&height=110&section=footer" />
 </div>
+
+
