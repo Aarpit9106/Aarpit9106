@@ -22,7 +22,7 @@ Hey, I'm **Aarpit** — a CSE undergrad from Nagpur who genuinely enjoys buildin
 
 - 🎓 B.Tech Computer Science @ **Ramdeobaba University** (Class of 2026)
 - 🧠 Member @ **GDG RBU** — Google Developer Group on campus
-- 🤖 Into **AI + Fullstack** — currently exploring LLMs, RAG, and building things with OpenAI
+- 🤖 Into **AI + Fullstack** — exploring LLMs, RAG, and building things with OpenAI
 - 💬 I like clean code, messy terminals, and coffee at the wrong hours
 - 📍 Nagpur, Maharashtra
 - 📫 Reach me → [linkedin.com/in/aarpitjethwa091006](https://www.linkedin.com/in/aarpitjethwa091006)
@@ -111,10 +111,8 @@ Hey, I'm **Aarpit** — a CSE undergrad from Nagpur who genuinely enjoys buildin
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aarpit9106&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <i>Profile gets better with every commit. Check back soon. 🚀</i>
 </div>
 
 ---
@@ -122,5 +120,3 @@ Hey, I'm **Aarpit** — a CSE undergrad from Nagpur who genuinely enjoys buildin
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a8a7a,50:0e4d7b,100:0d1117&height=110&section=footer" />
 </div>
-
-
