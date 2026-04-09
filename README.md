@@ -20,7 +20,7 @@
 
 Hey, I'm **Aarpit** — a CSE undergrad from Nagpur who genuinely enjoys building things from scratch and figuring out why they broke.
 
-- 🎓 B.Tech Computer Science @ **Ramdeobaba University** (Class of 2026)
+- 🎓 B.Tech Computer Science @ **Ramdeobaba University**
 - 🧠 Member @ **GDG RBU** — Google Developer Group on campus
 - 🤖 Into **AI + Fullstack** — exploring LLMs, RAG, and building things with OpenAI
 - 💬 I like clean code, messy terminals, and coffee at the wrong hours
